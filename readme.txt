@@ -16,4 +16,3 @@ Creating a new branch is quick and simple dev 1111.
 Creating a new branch is quick and simple dev 222.
 Creating a new branch is quick and simple dev 333333.
 Creating a new branch is quick and simple dev 4444444.
-
